@@ -37,15 +37,15 @@ The student will:
 Discrete-Time Signal Processing, 3rd Edition, by Oppenheim and Schafer, Pearson, 2010. ISBN-13: 978-0131988422
 
 
+# Quizzes 
+
+There will be weekly quizzes based on the homework.  These will be given at the beginning of the lab or lecture session.  The quizzes will be closed book and closed notes.  There are no makeup quizzes.  The lowest two quiz grades will be dropped.
+
+
+
 # Assignments 
 
-You will have weekly homework assignments.  These assignments are based on selected problems from the textbook from various signal processing textbooks and old examinations.  You will be given Jupyter Notebooks to complete the assignments.  I strongly recommend that you work the problems out by hand (pencil and paper) and then complete the Notebook after you have worked the problem out.
-
-Homework will be distributed and collected via GitHub.  Homework will be graded based on correctness.  You will receive feedback each week based on your work after it is graded.  You are welcome to work together in groups to solve the problems, but the solutions you submit must be your own.  I strongly encourage you to fully understand your submission because the examinations, which are an individual effort, will be based on the homework problems.
-
-Each homework is associated with a particular exam (see schedule).  If your score on that exam exceeds the homework average for the homeworks associated with the exam, the exam grade will replace the homework grade.  The opposite is not true. If you score below the homework average on the exam, the homework grade will be used.
-
-Occasionally pop quizzes will be given in class and will count towards your homework grade.  These quizzes will be based on the material covered in the previous week.
+You will have weekly homework assignments based on the material covered in class.  These will not be collected.  However, these will be representative of the types of problems you will see on the exams and the weekly quizzes.  After each quiz the solutions will be posted so you can check your work.  You are encouraged to work together on the problems together.
 
 
 
@@ -72,19 +72,13 @@ Late work will not be accepted after the due date.  Once the GitHub repository i
 There will be two midterm examinations during the semester.  There will also be a comprehensive final examination.  The objective of the examinations will be to test your knowledge of fundamentals and your ability to apply the concepts learned in the class in situations you may not have encountered before.  You may bring one sheet of formulas for the first exam, two sheets of formulas for the second exam, and three sheets of formulas to the final exam.
 
 
-
-# Project 
-
-There will be a final project for the course.  The project will involve designing and implementing a digital signal processing system.  The details of the project will be provided later in the semester.
-
-
 # Grading
 
 As shown below, grades are based on the weighted average of the exams, homework, and laboratory assignments.
 
 | Item | Percentage |
 |------|------------|
-| homework | 10% |
+| quizzes | 10% |
 | labs | 20% |
 | midterms | 20% |
 | final | 20% |
