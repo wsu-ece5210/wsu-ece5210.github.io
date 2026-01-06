@@ -9,7 +9,7 @@ title: Final Exam Material
     FIR filter, optimal filter design (7.3-7.5, 7.7)
   </div>
   <div><span class="label label-purple">HW10</span></div>
-  <div><span class="label label-green">LAB07: ALL-PASS SYSTEMS</span></div>
+  <div><span class="label label-green">LAB07: FIXED-POINT IMPLEMENTATION</span></div>
 </div>
 <div class="module-item">
   <div>3/23</div>
@@ -18,7 +18,7 @@ title: Final Exam Material
     Discrete Fourier Transform, part 1 (8.0-8.5)<br><span class="label label-red">mt02</span>
   </div>
   <div><span class="label label-purple">HW11</span></div>
-  <div><span class="label label-green">LAB08: FIXED-POINT IMPLEMENTATION</span></div>
+  <div><span class="label label-green">LAB08: IIR DESIGN</span></div>
 </div>
 <div class="module-item">
   <div>3/30</div>
@@ -27,7 +27,7 @@ title: Final Exam Material
     Fast Fourier Transform, part 1 (9.0-9.1)
   </div>
   <div><span class="label label-purple">HW12</span></div>
-  <div><span class="label label-green">LAB09: IIR DESIGN</span></div>
+  <div><span class="label label-green">LAB09: FIR DESIGN</span></div>
 </div>
 <div class="module-item">
   <div>4/6</div>
@@ -36,7 +36,7 @@ title: Final Exam Material
     Spectral Analysis (10.1-10.2)
   </div>
   <div><span class="label label-purple">HW13</span></div>
-  <div><span class="label label-green">LAB10: FIR DESIGN</span></div>
+  <div><span class="label label-green">LAB09: FIR DESIGN</span></div>
 </div>
 <div class="module-item">
   <div>4/13</div>
@@ -45,5 +45,5 @@ title: Final Exam Material
     Review for final
   </div>
   <div><span class="label label-purple">HW14</span></div>
-  <div><span class="label label-green">LAB10: FIR DESIGN</span></div>
+  <div><span class="label label-green">LAB09: FIR DESIGN</span></div>
 </div>

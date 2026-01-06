@@ -9,7 +9,7 @@ title: Midterm 2 Material
     Data converters and noise shaping (4.8-4.9)
   </div>
   <div><span class="label label-purple">HW06</span></div>
-  <div><span class="label label-green">LAB05: REMOVAL OF 60HZ NOISE</span></div>
+  <div><span class="label label-green">LAB04: REMOVAL OF 60HZ NOISE</span></div>
 </div>
 <div class="module-item">
   <div>2/16</div>
@@ -18,7 +18,7 @@ title: Midterm 2 Material
     Review for mt01<br><span class="label label-red">mt01</span>
   </div>
   <div><span class="label label-purple">HW07</span></div>
-  <div><span class="label label-green">LAB06: POLYPHASE DECIMATION</span></div>
+  <div><span class="label label-green">LAB05: POLYPHASE DECIMATION</span></div>
 </div>
 <div class="module-item">
   <div>2/23</div>
@@ -27,7 +27,7 @@ title: Midterm 2 Material
     All-pass systems, min phase decomposition (5.4-5.6)
   </div>
   <div><span class="label label-purple">HW08</span></div>
-  <div><span class="label label-green">LAB06: POLYPHASE DECIMATION</span></div>
+  <div><span class="label label-green">LAB05: POLYPHASE DECIMATION</span></div>
 </div>
 <div class="module-item">
   <div>3/09</div>
@@ -36,5 +36,5 @@ title: Midterm 2 Material
     Block diagram, numerical effects (6.1-6.10)
   </div>
   <div><span class="label label-purple">HW09</span></div>
-  <div><span class="label label-green">LAB07: ALL-PASS SYSTEMS</span></div>
+  <div><span class="label label-green">LAB06: ALL-PASS SYSTEMS</span></div>
 </div>

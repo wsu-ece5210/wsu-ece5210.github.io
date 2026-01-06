@@ -9,7 +9,7 @@ title: Midterm 1 Material
     Discrete-time signals and systems, part 1 (2.0-2.2)
   </div>
   <div><span class="label label-purple">HW01</span></div>
-  <div><span class="label label-green">LAB01: INTRODUCTION</span></div>
+  <div><span class="label label-green">LAB01: DISTORTION EFFECTS</span></div>
 </div>
 <div class="module-item">
   <div>1/12</div>
@@ -18,7 +18,7 @@ title: Midterm 1 Material
     Discrete-time Fourier transform (2.5-2.9)
   </div>
   <div><span class="label label-purple">HW02</span></div>
-  <div><span class="label label-green">LAB02: DISTORTION EFFECTS</span></div>
+  <div><span class="label label-green">LAB02: MOVING AVERAGE/DTFT</span></div>
 </div>
 <div class="module-item">
   <div>1/19</div>
@@ -27,7 +27,7 @@ title: Midterm 1 Material
     Z-transform (3.0-3.2)
   </div>
   <div><span class="label label-purple">HW03</span></div>
-  <div><span class="label label-green">LAB03: MOVING AVERAGE/DTFT</span></div>
+  <div><span class="label label-green">LAB02: MOVING AVERAGE/DTFT</span></div>
 </div>
 <div class="module-item">
   <div>1/26</div>
@@ -36,7 +36,7 @@ title: Midterm 1 Material
     Sampling and reconstruction (4.0-4.3)
   </div>
   <div><span class="label label-purple">HW04</span></div>
-  <div><span class="label label-green">LAB03: MOVING AVERAGE/DTFT</span></div>
+  <div><span class="label label-green">LAB03: FIR IMPLEMENTATION</span></div>
 </div>
 <div class="module-item">
   <div>2/02</div>
@@ -45,5 +45,5 @@ title: Midterm 1 Material
     Downsampling/upsampling and practical interpolation (4.6)
   </div>
   <div><span class="label label-purple">HW05</span></div>
-  <div><span class="label label-green">LAB04: FIR IMPLEMENTATION</span></div>
+  <div><span class="label label-green">LAB04: REMOVAL OF 60HZ NOISE</span></div>
 </div>
